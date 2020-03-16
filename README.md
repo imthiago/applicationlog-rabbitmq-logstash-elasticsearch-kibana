@@ -1,0 +1,1 @@
+# applicationlog-rabbitmq-logstash-elasticsearch-kibana
